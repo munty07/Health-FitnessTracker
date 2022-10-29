@@ -1,5 +1,5 @@
-# Health-FitnessTracker
-Proiect de echipa (2020)
+# Health-FitnessTracker(2020)
+Proiect de echipa
 
 Cu ajutorul acestei aplicatii puteti sa va monitorizati antrenamentele si alimentatia zilnica, ulterior vizualizand un grafic al evolutiei.
 
